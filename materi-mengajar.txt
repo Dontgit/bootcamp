@@ -11,7 +11,22 @@ Materi Mengajar Bootcamp SMKN 24 Jakarta
       * dan praktek di bootsrap
   - Materi Kelas 11
     1 PHP
+      * PHP dasar
+      * Manipulasi String
+      * Post & Get
+      * CRUD
+      * Login
+      * Pengaplikasian Sederhana
+      * Pengenalan Framework ( Laravel / Code Igniter)
     2 Javascript
+      * Javascript Dasar
+      * Javascript Object
+      * Javascript Callback
+      * Javascript Fetch
+      * Javascript Async
+      * Javascript Error Handling
+      * Javascript AJAX
+      * Pengenalan FrameWork (React JS / VUE JS)
     3 Bootstrap 5
 
 
