@@ -1,1 +1,8 @@
 Materi Mengajar Bootcamp SMKN 24 Jakarta
+
+Bootstrap 5
+- pengenalan apa itu bootstrap5
+- cara menggunakan bootstrap
+- color di bootstrap
+- container di bootstrap
+- dan praktek di bootsrap
