@@ -1,7 +1,16 @@
 Materi Mengajar Bootcamp SMKN 24 Jakarta
   - Materi Kelas 10
     1 HTML
+      * Pengenalan Element Text
+      * Pengenalan Table
+      * Pengenalan Form
+      * Pengenalan Layouting
     2 CSS
+      * Pengenalan Penggunaan
+      * Pengenalan Warna
+      * Pengenalan Padding dan Margin
+      * Pengenalan Font
+      * Pengenalan Animasi
     3 MySQL
     4 Bootstrap 
       * pengenalan apa itu bootstrap5
